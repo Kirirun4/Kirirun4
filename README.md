@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Kirirun4/Kirirun4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Kiririll Savinyh*
+### About me
+Аналитический склад ума, увлекаюсь шахматами и видеоиграми, легко обучаюсь новому.
+### Education
+Неоконченное высшее: 
+- Казанский национальный исследовательский технологический университет, Казань
+Курсы: 
+- Нагрузочное тестирование, Перформанс Лаб;
+- Тестирование ПО, GeekBrains.
+### Skills
+#### Fundamental
+Windows, Linux. Рабочая станция, PostgreSQL.
+#### Applied
+Java (writing small programs), Python (writing scripts), Postman, HTML, Автоматизация тестирования Web UI на Java, Тестирование backend на Java, Grafana, Jenkins, HP LoadRunner, Performance Centre, VuGen, Analysis, REST, SOAP, Тестирование мобильных приложений, Тестирование веб-приложений, Kubernetes, Selenium
