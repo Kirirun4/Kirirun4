@@ -2,13 +2,13 @@
 ## About me
 Аналитический склад ума, увлекаюсь шахматами и видеоиграми, легко обучаюсь новому.
 ## Education
-### Неоконченное высшее: 
+### Incomplete higher: 
 - Казанский национальный исследовательский технологический университет, Казань
-### Курсы: 
+### Courses: 
 - Нагрузочное тестирование, Перформанс Лаб;
 - Тестирование ПО, GeekBrains.
 ## Skills
-### Fundamental
+### Fundamental:
 Windows, Linux. Рабочая станция, PostgreSQL.
-### Applied
+### Applied:
 Java (writing small programs), Python (writing scripts), Postman, HTML, Автоматизация тестирования Web UI на Java, Тестирование backend на Java, Grafana, Jenkins, HP LoadRunner, Performance Centre, VuGen, Analysis, REST, SOAP, Тестирование мобильных приложений, Тестирование веб-приложений, Kubernetes, Selenium
