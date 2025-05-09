@@ -1,14 +1,14 @@
-## *Kiririll Savinyh*
-### About me
+# *Kiririll Savinyh*
+## About me
 Аналитический склад ума, увлекаюсь шахматами и видеоиграми, легко обучаюсь новому.
-### Education
-#### Неоконченное высшее: 
+## Education
+### Неоконченное высшее: 
 - Казанский национальный исследовательский технологический университет, Казань
-#### Курсы: 
+### Курсы: 
 - Нагрузочное тестирование, Перформанс Лаб;
 - Тестирование ПО, GeekBrains.
-### Skills
-#### Fundamental
+## Skills
+### Fundamental
 Windows, Linux. Рабочая станция, PostgreSQL.
-#### Applied
+### Applied
 Java (writing small programs), Python (writing scripts), Postman, HTML, Автоматизация тестирования Web UI на Java, Тестирование backend на Java, Grafana, Jenkins, HP LoadRunner, Performance Centre, VuGen, Analysis, REST, SOAP, Тестирование мобильных приложений, Тестирование веб-приложений, Kubernetes, Selenium
