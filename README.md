@@ -1,4 +1,4 @@
-# *Kiririll Savinyh*
+# *Kirill Savinyh*
 ## About me
 Аналитический склад ума, увлекаюсь шахматами и видеоиграми, легко обучаюсь новому.
 ## Education
